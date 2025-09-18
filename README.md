@@ -17,7 +17,7 @@ A simple and interactive **Weather App** built with **React, HTML, CSS, and Java
 
 ## ⚡ Getting Started
 
-### 1. Clone the repository
+### 1. Clone the repository in 
 ```bash
 git clone https://github.com/your-username/weather-app.git
 cd weather-app
